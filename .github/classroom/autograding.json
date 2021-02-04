@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Test readme",
-      "setup": "npm install",
-      "run": "npm test",
+      "setup": "",
+      "run": "echo 'done'",
       "input": "",
       "output": "",
       "comparison": "included",
